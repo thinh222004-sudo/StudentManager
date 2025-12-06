@@ -5,7 +5,7 @@ from Payment.payment import Payment
 
 def main():
     user1 = User("U001", "Nguyen Dinh Thinh")
-    user2 = User("U002", "Cao Van Nhan")
+    user2 = User("U002", "Nguyen Phuoc Datbeheading")
 
     user1.show_info()
     user2.show_info()
